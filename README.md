@@ -1,4 +1,1 @@
-## Hi there 👋
-
-<!--
-*
+cout << "Hi Git Gub" << endl;
